@@ -253,6 +253,9 @@
       "fvaca.Checkout.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.0.0"
+        },
         "compile": {
           "bin/placeholder/fvaca.Checkout.Repository.dll": {}
         },
@@ -703,11 +706,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
+      "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
       "projectName": "fvaca.Checkout.PaymentGateway",
-      "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
+      "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
       "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-      "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/",
+      "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -724,11 +727,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
-              "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj"
+            "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
+              "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj"
             },
-            "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
-              "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj"
+            "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
+              "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj"
             }
           }
         }

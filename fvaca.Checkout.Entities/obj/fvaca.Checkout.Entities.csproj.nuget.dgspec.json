@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {}
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {}
   },
   "projects": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
         "projectName": "fvaca.Checkout.Entities",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

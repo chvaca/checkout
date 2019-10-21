@@ -1,17 +1,74 @@
 {
   "format": 1,
   "restore": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {}
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {}
   },
   "projects": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
-        "projectName": "fvaca.Checkout.Repository",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
+        "projectName": "fvaca.Checkout.Contracts",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/freddy.vaca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "projectName": "fvaca.Checkout.Entities",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -38,6 +95,79 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
+        "projectName": "fvaca.Checkout.Repository",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
+        "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/freddy.vaca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

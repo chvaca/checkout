@@ -3,17 +3,27 @@
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="fvaca.Checkout.Contracts/IRepositoryBase.cs" Line="7" Column="37" />
-      <File FileName="fvaca.Checkout.Contracts/IPaymentRepository.cs" Line="11" Column="31" />
-      <File FileName="fvaca.Checkout.Contracts/ICardRepository.cs" Line="9" Column="37" />
-      <File FileName="fvaca.Checkout.Entities/Models/Payment.cs" Line="16" Column="33" />
-      <File FileName="fvaca.Checkout.Entities/Models/Card.cs" Line="24" Column="30" />
-      <File FileName="fvaca.Checkout.LoggerService/LoggerManager.cs" Line="33" Column="10" />
+      <File FileName="fvaca.Checkout.Contracts/IPaymentRepository.cs" />
+      <File FileName="fvaca.Checkout.Contracts/ICardRepository.cs" />
+      <File FileName="fvaca.Checkout.Entities/Models/Payment.cs" />
+      <File FileName="fvaca.Checkout.Entities/Models/Card.cs" />
+      <File FileName="fvaca.Checkout.LoggerService/LoggerManager.cs" />
+      <File FileName="fvaca.Checkout.PaymentGateway/Controllers/Payment.cs" Line="15" Column="89" />
+      <File FileName="fvaca.Checkout.PaymentGateway/appsettings.json" Line="1" Column="1" />
+      <File FileName="fvaca.Checkout.Repository/RepositoryBase.cs" Line="47" Column="2" />
+      <File FileName="fvaca.Checkout.Repository/PaymentRepository.cs" Line="29" Column="10" />
+      <File FileName="fvaca.Checkout.Repository/CardRepository.cs" Line="25" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="fvaca.Checkout" expanded="True">
-            <Node name="Solution Items" expanded="True" />
+            <Node name="fvaca.Checkout.PaymentGateway" expanded="True">
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="fvaca.Checkout.Repository" expanded="True">
+              <Node name="CardRepository.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

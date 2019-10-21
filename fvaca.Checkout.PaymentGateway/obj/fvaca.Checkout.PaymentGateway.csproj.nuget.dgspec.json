@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj": {}
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj": {}
   },
   "projects": {
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
         "projectName": "fvaca.Checkout.Contracts",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -28,8 +28,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
-                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj"
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
         "projectName": "fvaca.Checkout.Entities",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/fvaca.Checkout.Entities.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Entities/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Entities/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -124,14 +124,14 @@
         }
       }
     },
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj",
         "projectName": "fvaca.Checkout.LoggerService",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -148,8 +148,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
-                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj"
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Contracts/fvaca.Checkout.Contracts.csproj"
               }
             }
           }
@@ -187,14 +187,14 @@
         }
       }
     },
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
         "projectName": "fvaca.Checkout.PaymentGateway",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/fvaca.Checkout.PaymentGateway.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.PaymentGateway/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -211,11 +211,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
-                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj"
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.LoggerService/fvaca.Checkout.LoggerService.csproj"
               },
-              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
-                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj"
+              "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj"
               }
             }
           }
@@ -250,14 +250,14 @@
         }
       }
     },
-    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
+    "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
         "projectName": "fvaca.Checkout.Repository",
-        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/fvaca.Checkout.Repository.csproj",
         "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
-        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/checkout/fvaca.Checkout.Repository/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -284,6 +284,12 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
