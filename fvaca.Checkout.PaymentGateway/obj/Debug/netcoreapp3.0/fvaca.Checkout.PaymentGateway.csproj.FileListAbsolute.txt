@@ -1,0 +1,17 @@
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/staticwebassets/fvaca.Checkout.PaymentGateway.StaticWebAssets.Manifest.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/staticwebassets/fvaca.Checkout.PaymentGateway.StaticWebAssets.xml
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.MvcApplicationPartsAssemblyInfo.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.AssemblyInfoInputs.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.AssemblyInfo.cs
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.deps.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.runtimeconfig.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.runtimeconfig.dev.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/bin/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.RazorTargetAssemblyInfo.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway/obj/Debug/netcoreapp3.0/fvaca.Checkout.PaymentGateway.pdb

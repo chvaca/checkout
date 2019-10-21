@@ -1,0 +1,11 @@
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/bin/Debug/netstandard2.1/fvaca.Checkout.Contracts.deps.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/bin/Debug/netstandard2.1/fvaca.Checkout.Contracts.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/bin/Debug/netstandard2.1/fvaca.Checkout.Contracts.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/bin/Debug/netstandard2.1/fvaca.Checkout.Entities.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/bin/Debug/netstandard2.1/fvaca.Checkout.Entities.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.csprojAssemblyReference.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.AssemblyInfoInputs.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.AssemblyInfo.cs
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.csproj.CopyComplete
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Contracts/obj/Debug/netstandard2.1/fvaca.Checkout.Contracts.pdb

@@ -1,0 +1,13 @@
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.deps.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Data.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.DataAccess.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Data.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/bin/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.DataAccess.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.csprojAssemblyReference.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.AssemblyInfoInputs.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.AssemblyInfo.cs
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.csproj.CopyComplete
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/Debug/netstandard2.1/fvaca.Checkout.PaymentGateway.Core.pdb

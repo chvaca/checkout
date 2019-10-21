@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{004136F2-D565-480C-8E98-F4464334DC3D}|Default">
+  <MonoDevelop.Ide.ItemProperties.fvaca.Checkout.PaymentGateway PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="fvaca.Checkout.Contracts/IRepositoryBase.cs" Line="7" Column="37" />
+      <File FileName="fvaca.Checkout.Contracts/IPaymentRepository.cs" Line="11" Column="31" />
+      <File FileName="fvaca.Checkout.Contracts/ICardRepository.cs" Line="9" Column="37" />
+      <File FileName="fvaca.Checkout.Entities/Models/Payment.cs" Line="16" Column="33" />
+      <File FileName="fvaca.Checkout.Entities/Models/Card.cs" Line="24" Column="30" />
+      <File FileName="fvaca.Checkout.LoggerService/LoggerManager.cs" Line="33" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="fvaca.Checkout" expanded="True">
+            <Node name="Solution Items" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

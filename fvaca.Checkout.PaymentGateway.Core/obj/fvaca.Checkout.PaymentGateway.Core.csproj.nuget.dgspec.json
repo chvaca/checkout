@@ -1,0 +1,194 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/fvaca.Checkout.PaymentGateway.Core.csproj": {}
+  },
+  "projects": {
+    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/fvaca.Checkout.PaymentGateway.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/fvaca.Checkout.PaymentGateway.Core.csproj",
+        "projectName": "fvaca.Checkout.PaymentGateway.Core",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/fvaca.Checkout.PaymentGateway.Core.csproj",
+        "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/freddy.vaca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj"
+              },
+              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/fvaca.Checkout.PaymentGateway.DataAccess.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/fvaca.Checkout.PaymentGateway.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj",
+        "projectName": "fvaca.Checkout.PaymentGateway.Data",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj",
+        "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/freddy.vaca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/fvaca.Checkout.PaymentGateway.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/fvaca.Checkout.PaymentGateway.DataAccess.csproj",
+        "projectName": "fvaca.Checkout.PaymentGateway.DataAccess",
+        "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/fvaca.Checkout.PaymentGateway.DataAccess.csproj",
+        "packagesPath": "/Users/freddy.vaca/.nuget/packages/",
+        "outputPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/freddy.vaca/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj": {
+                "projectPath": "/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.PaymentGateway.Data/fvaca.Checkout.PaymentGateway.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

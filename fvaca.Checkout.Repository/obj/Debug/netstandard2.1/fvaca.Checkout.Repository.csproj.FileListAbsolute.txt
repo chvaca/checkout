@@ -1,0 +1,7 @@
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/bin/Debug/netstandard2.1/fvaca.Checkout.Repository.deps.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/bin/Debug/netstandard2.1/fvaca.Checkout.Repository.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/bin/Debug/netstandard2.1/fvaca.Checkout.Repository.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/Debug/netstandard2.1/fvaca.Checkout.Repository.AssemblyInfoInputs.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/Debug/netstandard2.1/fvaca.Checkout.Repository.AssemblyInfo.cs
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/Debug/netstandard2.1/fvaca.Checkout.Repository.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.Repository/obj/Debug/netstandard2.1/fvaca.Checkout.Repository.pdb

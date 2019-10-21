@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\fvaca.Checkout.PaymentGateway.Data\fvaca.Checkout.PaymentGateway.Data.csproj" />
+    <ProjectReference Include="..\fvaca.Checkout.PaymentGateway.DataAccess\fvaca.Checkout.PaymentGateway.DataAccess.csproj" />
+  </ItemGroup>
+</Project>

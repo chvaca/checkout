@@ -1,0 +1,8 @@
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/bin/Debug/netstandard2.1/fvaca.Checkout.LoggerService.deps.json
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/bin/Debug/netstandard2.1/fvaca.Checkout.LoggerService.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/bin/Debug/netstandard2.1/fvaca.Checkout.LoggerService.pdb
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/Debug/netstandard2.1/fvaca.Checkout.LoggerService.csprojAssemblyReference.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/Debug/netstandard2.1/fvaca.Checkout.LoggerService.AssemblyInfoInputs.cache
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/Debug/netstandard2.1/fvaca.Checkout.LoggerService.AssemblyInfo.cs
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/Debug/netstandard2.1/fvaca.Checkout.LoggerService.dll
+/Users/freddy.vaca/Projects/Personal/fvaca.Checkout/fvaca.Checkout.LoggerService/obj/Debug/netstandard2.1/fvaca.Checkout.LoggerService.pdb
